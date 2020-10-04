@@ -1,8 +1,7 @@
-My personal portfolio using HTML5 UP as a basis.
-
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 
 This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
 creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
@@ -17,12 +16,16 @@ you can use for pretty much whatever.
 
 AJ
 aj@lkn.io | @ajlkn
+
+
 Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+
 	Icons:
 		Font Awesome (fontawesome.io)
+
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
